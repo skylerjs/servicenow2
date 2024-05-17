@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Loaner Request">fe7a34e89f9202107f44fd807324ab85</catalog_item>
+        <catalog_variable>IO:448a3ce89f9202107f44fd807324ab73</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 19:27:16</sys_created_on>
+        <sys_id>0079016c9fd202107f44fd807324abaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7e4621519f4202107f44fd807324ab3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">7e4621519f4202107f44fd807324ab3e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0079016c9fd202107f44fd807324abaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 19:27:16</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Only show 'Other' field if Deopt value is 'Other'">a678cde89fd202107f44fd807324ab85</ui_policy>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
