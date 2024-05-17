@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>limit</name>
+        <order>300</order>
+        <rest_message_function display_value="Default GET">0e65956c9fd202107f44fd807324abe5</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 20:20:32</sys_created_on>
+        <sys_id>559555e09f1602107f44fd807324ab85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>limit</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7e4621519f4202107f44fd807324ab3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">7e4621519f4202107f44fd807324ab3e</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_559555e09f1602107f44fd807324ab85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 20:20:32</sys_updated_on>
+        <value>1</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
